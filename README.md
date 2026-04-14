@@ -12,6 +12,12 @@ Projet data meteo de bout en bout:
 Comparer la meteo de 5 villes europeennes (Paris, Londres, Madrid, Rome, Berlin),
 calculer un indice de confort, puis exposer les resultats dans une application web.
 
+## Dashboard en ligne
+
+Acces public recruteur:
+
+- https://loth19-02-weatherflow-app-ipynbstreamlit-app-t6edkk.streamlit.app
+
 ## Stack technique
 
 - Python 3.12
@@ -183,7 +189,7 @@ Extrait du CSV final `src/df.csv`:
 
 Lien de partage a fournir au recruteur une fois deploye:
 
-- URL publique de Streamlit Community Cloud
+- https://loth19-02-weatherflow-app-ipynbstreamlit-app-t6edkk.streamlit.app
 
 ### Interpretation
 
